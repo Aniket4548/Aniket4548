@@ -25,7 +25,7 @@ Feel free to explore my repositories to see more of my work.
 I'm always open to discussing new projects, creative ideas, or opportunities to be part of your vision. Connect with me through the following channels:
 
 - 📧 **Email**: kumaraniket8802@gmail.com
-- 💼 **LinkedIn**: [linkedin.com/in/aniket-kumar]([https://linkedin.com/in/aniket-kumar](https://www.linkedin.com/in/aniket-kumar-4b1b68141/))
+- 💼 **LinkedIn**: [https://linkedin.com/in/aniket-kumar](https://www.linkedin.com/in/aniket-kumar-4b1b68141/)
 - 🐦 **Twitter**: [https://twitter.com/aniketkumar](https://x.com/ANIKETKUMA96919)
 - 👨‍💻 **GitHub**: [github.com/Aniket4548](https://github.com/Aniket4548)
 
