@@ -33,8 +33,8 @@ I'm always open to discussing new projects, creative ideas, or opportunities to 
 
 ## Github Stats 📊
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Aniket4548&theme=github-dark&hide_border=true)](https://git.io/streak-stats)
-![Aniket](https://github-readme-stats.vercel.app/api?username=Aniket4548&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=0D1117&hide_border=true&custom_title=Aniket4548's_GitHub_Stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Aniket4548&theme=dark&hide_border=true)](https://git.io/streak-stats)
+![Aniket](https://github-readme-stats.vercel.app/api?username=Aniket4548&show_icons=true&theme=dark&hide_border=true&custom_title=Aniket4548's_GitHub_Stats)
 
 </div>
 
