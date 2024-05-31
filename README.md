@@ -30,7 +30,7 @@ I'm always open to discussing new projects, creative ideas, or opportunities to 
 [![GitHub](https://img.shields.io/badge/GitHub-Aniket4548-blue?style=flat&logo=github)](https://github.com/Aniket4548)
 
 ###test
-<a href="[https://www.example.com](https://github-readme-streak-stats.herokuapp.com?user=Aniket4548&theme=dark&hide_border=true&custom_title=Github%20Streak)"></a>
+<a href="https://github-readme-streak-stats.herokuapp.com?user=Aniket4548&theme=dark&hide_border=true&custom_title=Github%20Streak">[](https://github-readme-streak-stats.herokuapp.com?user=Aniket4548&theme=dark&hide_border=true&custom_title=Github%20Streak)</a>
 
 
 
