@@ -29,22 +29,6 @@ I'm always open to discussing new projects, creative ideas, or opportunities to 
 [![Twitter](https://img.shields.io/badge/Twitter-@aniketkumar-blue?style=flat&logo=twitter)](https://x.com/ANIKETKUMA96919)
 [![GitHub](https://img.shields.io/badge/GitHub-Aniket4548-blue?style=flat&logo=github)](https://github.com/Aniket4548)
 
-#efius
-## 🌐 Connect with Me
-
-<a href="mailto:kumaraniket8802@gmail.com" style="text-decoration:none;">
-    <img src="https://img.shields.io/badge/Email-kumaraniket8802@gmail.com-blue?style=flat&logo=gmail" alt="Email">
-</a>
-<a href="https://www.linkedin.com/in/aniket-kumar-4b1b68141/" style="text-decoration:none;">
-    <img src="https://img.shields.io/badge/LinkedIn-Aniket%20Kumar-blue?style=flat&logo=linkedin" alt="LinkedIn">
-</a>
-<a href="https://x.com/ANIKETKUMA96919" style="text-decoration:none;">
-    <img src="https://img.shields.io/badge/Twitter-@aniketkumar-blue?style=flat&logo=twitter" alt="Twitter">
-</a>
-<a href="https://github.com/Aniket4548" style="text-decoration:none;">
-    <img src="https://img.shields.io/badge/GitHub-Aniket4548-blue?style=flat&logo=github" alt="GitHub">
-</a>
-
 
 
 ## Github Stats 📊
