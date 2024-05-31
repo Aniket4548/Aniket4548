@@ -32,7 +32,7 @@ I'm always open to discussing new projects, creative ideas, or opportunities to 
 
 
 ## Github Stats 📊
-<Div align = 'centre'>
+<Div align = 'center'>
 
 - [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Aniket4548&theme=dark&hide_border=true)](https://git.io/streak-stats)
 - ![Aniket](https://github-readme-stats.vercel.app/api?username=Aniket4548&show_icons=true&rank_icon=github&theme=dark&hide_border=true)
