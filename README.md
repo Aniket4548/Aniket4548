@@ -32,10 +32,9 @@ I'm always open to discussing new projects, creative ideas, or opportunities to 
 
 
 ## Github Stats 📊
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Aniket4548&theme=dark&hide_border=true" alt="Github Streak">
-  <img src="https://github-readme-stats.vercel.app/api?username=Aniket4548&show_icons=true&rank_icon=github&theme=dark&hide_border=true">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aniket4548&layout=donut-vertical&hide=Jupyter%20Notebook&theme=dark&hide_border=true">
-</div>
+![Github Streak](https://github-readme-streak-stats.herokuapp.com?user=Aniket4548&theme=dark&hide_border=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Aniket4548&show_icons=true&rank_icon=github&theme=dark&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aniket4548&layout=donut-vertical&hide=Jupyter%20Notebook&theme=dark&hide_border=true)
+
 
 Thank you for visiting my profile! Let's create something amazing together.
