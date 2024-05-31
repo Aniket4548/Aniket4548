@@ -29,13 +29,13 @@ I'm always open to discussing new projects, creative ideas, or opportunities to 
 - 🐦 **Twitter**: [https://twitter.com/aniketkumar](https://x.com/ANIKETKUMA96919)
 - 👨‍💻 **GitHub**: [github.com/Aniket4548](https://github.com/Aniket4548)
 
-<div align="center">
+
 
 ## Github Stats 📊
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Aniket4548&theme=dark&hide_border=true)](https://git.io/streak-stats)
 ![Aniket](https://github-readme-stats.vercel.app/api?username=Aniket4548&show_icons=true&rank_icon=github&theme=dark&hide_border=true)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=aniket4548&layout=donut-vertical&hide=Jupyter%20Notebook&theme=dark&hide_border=true)
-</div>
+
 
 Thank you for visiting my profile! Let's create something amazing together.
