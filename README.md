@@ -20,14 +20,14 @@ Welcome to my GitHub profile! I am a Data Engineer with a strong background in D
 
 Feel free to explore my repositories to see more of my work.
 
-## Get in Touch
+## 🌐 Connect with Me
 
 I'm always open to discussing new projects, creative ideas, or opportunities to be part of your vision. Connect with me through the following channels:
 
-- 📧 **Email**: kumaraniket8802@gmail.com
-- 💼 **LinkedIn**: [https://linkedin.com/in/aniket-kumar](https://www.linkedin.com/in/aniket-kumar-4b1b68141/)
-- 🐦 **Twitter**: [https://twitter.com/aniketkumar](https://x.com/ANIKETKUMA96919)
-- 👨‍💻 **GitHub**: [github.com/Aniket4548](https://github.com/Aniket4548)
+[![Email](https://img.shields.io/badge/Email-kumaraniket8802@gmail.com-blue?style=flat&logo=gmail)](mailto:kumaraniket8802@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Aniket%20Kumar-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/aniket-kumar-4b1b68141/)
+[![Twitter](https://img.shields.io/badge/Twitter-@aniketkumar-blue?style=flat&logo=twitter)](https://x.com/ANIKETKUMA96919)
+[![GitHub](https://img.shields.io/badge/GitHub-Aniket4548-blue?style=flat&logo=github)](https://github.com/Aniket4548)
 
 
 ## Github Stats 📊
