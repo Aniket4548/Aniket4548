@@ -33,7 +33,7 @@ I'm always open to discussing new projects, creative ideas, or opportunities to 
 
 ## Github Stats 📊
 ||
-| ------------- |
+
 | ![Github Streak](https://github-readme-streak-stats.herokuapp.com?user=Aniket4548&theme=dark&hide_border=true&custom_title=Github%20Streak)  |
 | ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Aniket4548&show_icons=true&rank_icon=github&theme=dark&hide_border=true&custom_title=GitHub%20Stats)  |
 |![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aniket4548&layout=donut-vertical&hide=Jupyter%20Notebook&theme=dark&hide_border=true&custom_title=Top%20Languages)
