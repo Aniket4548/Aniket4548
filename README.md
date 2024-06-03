@@ -1,6 +1,7 @@
 <h1 align="center">Hi there, I'm Aniket Kumar 👋</h1>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&repeat=false&random=false&width=435&lines=Welcome+to+my+Github!!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000¢er=true&repeat=false&random=false&width=435&lines=Welcome+to+my+Github!!&color=36BCF7FF)](https://git.io/typing-svg)
+
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com/?lines=Welcome+to+my+GitHub+profile!;I+am+a+Data+Engineer;I+am+a+data+analyst;I+am+an+Aspiring+Data+Scientist&font=Fira%20Code¢er=true&width=440&height=105&color=f75c7e&vCenter=true&pause=1000&size=22&prefix=I+am" />
