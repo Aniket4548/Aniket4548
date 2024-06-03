@@ -15,6 +15,8 @@
 </p>
 
 </p>
+
+
 ## About Me
 
 - 🎓 **Education**: B.Sc in Data Analytics
