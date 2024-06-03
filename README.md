@@ -16,15 +16,15 @@
 
 </p>
 
+<h2 style="text-align: center;">About Me</h2>
 
-## About Me
 
 - 🎓 **Education**: B.Sc in Data Analytics
 - 💼 **Current Role**: Data Engineer
 - 🧠 **Interests**: Machine Learning, NLP, Cloud Services
 - 🔧 **Skills**: Power BI, SQL, Python, Data Visualization, Machine Learning
 
-## Tools and Technologies
+<h2 style="text-align: center;">Tools and Technologies</h2>
 
 - **Programming Languages**: Python, SQL
 - **Data Analysis & Visualization**: Pandas, NumPy, Matplotlib, Seaborn, Power BI
@@ -35,7 +35,8 @@
 
 Feel free to explore my repositories to see more of my work.
 
-## 🌐 Connect with Me
+<h2 style="text-align: center;">🌐 Connect with Me</h2>
+
 
 I'm always open to discussing new projects, creative ideas, or opportunities to be part of your vision. Connect with me through the following channels:
 
@@ -45,8 +46,8 @@ I'm always open to discussing new projects, creative ideas, or opportunities to 
 [![GitHub](https://img.shields.io/badge/GitHub-Aniket4548-blue?style=flat&logo=github)](https://github.com/Aniket4548)
 
 
+<h2 style="text-align: center;">Github Stats 📊</h2>
 
-## Github Stats 📊
 
 
 <p align="center">
@@ -57,5 +58,5 @@ I'm always open to discussing new projects, creative ideas, or opportunities to 
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aniket4548&layout=donut-vertical&hide=Jupyter%20Notebook&theme=dark&hide_border=true&custom_title=Top%20Languages" alt="Top Languages" />
 </p>
 
-
+<br>
 Thank you for visiting my profile! Let's create something amazing together.
