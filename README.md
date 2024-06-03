@@ -24,7 +24,7 @@
 - 🧠 **Interests**: Machine Learning, NLP, Cloud Services
 - 🔧 **Skills**: Power BI, SQL, Python, Data Visualization, Machine Learning
 
-<h2 style="text-align: center;">Tools and Technologies</h2>
+<h2 style="text-align: center;">🛠️ Tools and Technologies</h2>
 
 - **Programming Languages**: Python, SQL
 - **Data Analysis & Visualization**: Pandas, NumPy, Matplotlib, Seaborn, Power BI
@@ -46,7 +46,7 @@ I'm always open to discussing new projects, creative ideas, or opportunities to 
 [![GitHub](https://img.shields.io/badge/GitHub-Aniket4548-blue?style=flat&logo=github)](https://github.com/Aniket4548)
 
 
-<h2 style="text-align: center;">Github Stats 📊</h2>
+<h2 style="text-align: center;">📊 Github Stats</h2>
 
 
 
