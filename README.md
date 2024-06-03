@@ -16,7 +16,7 @@
 
 </p>
 
-<h2 style="text-align: center;">About Me</h2>
+<h2 style="text-align: center;">😉 About Me</h2>
 
 
 - 🎓 **Education**: B.Sc in Data Analytics
