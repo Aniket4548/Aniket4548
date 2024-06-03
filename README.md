@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Aniket Kumar 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Welcome+to+my+GitHub+profile!&font=Fira%20Code&center=true&width=400&height=50&duration=4000&pause=1000">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Welcome+to+my+GitHub+profile!&font=Fira%20Code&center=true&width=400&height=50&duration=4000&pause=1000&repeat=false">
 </p>
 
 
