@@ -16,12 +16,24 @@
 
 ## 😊 About Me
 
-| | |
-|---|---|
-| 🎓 Education | MCA in ML/AI |
-| 💼 Current Role | Data Engineer |
-| 🧠 Interests | Machine Learning, NLP, Cloud Services |
-| 🛠️ Core Skills | Power BI, SQL, Python, Data Visualization, Machine Learning |
+<table align="center">
+  <tr>
+    <td><strong>🎓 Education</strong></td>
+    <td>MCA in ML/AI</td>
+  </tr>
+  <tr>
+    <td><strong>💼 Current Role</strong></td>
+    <td>Data Engineer</td>
+  </tr>
+  <tr>
+    <td><strong>🧠 Interests</strong></td>
+    <td>Machine Learning, NLP, Cloud Services</td>
+  </tr>
+  <tr>
+    <td><strong>🛠️ Core Skills</strong></td>
+    <td>Power BI, SQL, Python, Data Visualization, Machine Learning</td>
+  </tr>
+</table>
 
 ---
 
