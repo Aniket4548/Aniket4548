@@ -1,60 +1,65 @@
-<h1 align="center">Hi there, I'm Aniket Kumar 👋</h1>
+﻿<h1 align="center">Hi, I'm Aniket Kumar 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Welcome+to+my+GitHub+profile!!&font=Fira%20Code&center=true&width=400&height=50&duration=4000&pause=1000&repeat=false">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Welcome+to+my+GitHub+profile;Data+Engineer+%C2%B7+Data+Analyst+%C2%B7+Power+BI+Developer+%C2%B7+Aspiring+Data+Scientist&font=Fira%20Code&center=true&width=900&height=50&duration=3500&pause=900">
 </p>
 
+<p align="center"><strong>Data Engineer focused on analytics, automation, and ML-ready pipelines.</strong></p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=I+am+a+Data+Engineer;I+am+a+Data+Analyst;I+am+a+Power+BI+Developer;I+am+an+Aspiring+Data+Scientist&font=Fira%20Code&center=true&width=400&height=50&duration=4000&pause=1000">
+  <a href="https://aniket4548.github.io/portfolio/">
+    <img src="https://img.shields.io/badge/Portfolio-Visit%20My%20Website-111111?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio Website" />
+  </a>
 </p>
 
+---
 
-<p align="center">
-<a href="https://aniket4548.github.io/portfolio/">Visit my Portfolio Website</a>
-</p>
+## 😊 About Me
 
-</p>
+| | |
+|---|---|
+| 🎓 Education | MCA in ML/AI |
+| 💼 Current Role | Data Engineer |
+| 🧠 Interests | Machine Learning, NLP, Cloud Services |
+| 🛠️ Core Skills | Power BI, SQL, Python, Data Visualization, Machine Learning |
 
-<h2 style="text-align: center;">😉 About Me</h2>
+---
 
+## 🧰 Tools and Technologies
 
-- 🎓 **Education**: B.Sc in Data Analytics
-- 💼 **Current Role**: Data Engineer
-- 🧠 **Interests**: Machine Learning, NLP, Cloud Services
-- 🔧 **Skills**: Power BI, SQL, Python, Data Visualization, Machine Learning
+**Programming**
 
-<h2 style="text-align: center;">🛠️ Tools and Technologies</h2>
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white)
 
-- **Programming Languages**: Python, SQL
-- **Data Analysis & Visualization**: Pandas, NumPy, Matplotlib, Seaborn, Power BI
-- **Machine Learning**: scikit-learn, NLTK
-- **Database Management**: SQL
-- **Others**: Power BI, DAX
+**Data Analysis & Visualization**
 
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=plotly&logoColor=white) ![Seaborn](https://img.shields.io/badge/Seaborn-2C5E8E?style=flat-square&logo=python&logoColor=white) ![Power%20BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=111) ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
 
-Feel free to explore my repositories to see more of my work.
+**Machine Learning, NLP & GenAI**
 
-<h2 style="text-align: center;">🌐 Connect with Me</h2>
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white) ![NLTK](https://img.shields.io/badge/NLTK-3E7C59?style=flat-square&logo=python&logoColor=white) ![GenAI](https://img.shields.io/badge/GenAI-0B7285?style=flat-square&logo=openai&logoColor=white)
 
+**Data Platforms & Cloud**
 
-I'm always open to discussing new projects, creative ideas, or opportunities to be part of your vision. Connect with me through the following channels:
+![DAX](https://img.shields.io/badge/DAX-2D2D2D?style=flat-square&logo=microsoft&logoColor=white) ![Azure%20Functions](https://img.shields.io/badge/Azure%20Functions-0062AD?style=flat-square&logo=azurefunctions&logoColor=white) ![Google%20Analytics](https://img.shields.io/badge/Google%20Analytics-E37400?style=flat-square&logo=googleanalytics&logoColor=white) ![BigQuery](https://img.shields.io/badge/BigQuery-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
 
-[![Email](https://img.shields.io/badge/Email-kumaraniket8802@gmail.com-blue?style=flat&logo=gmail)](mailto:kumaraniket8802@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Aniket%20Kumar-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/aniket-kumar-4b1b68141/)
-[![Twitter](https://img.shields.io/badge/Twitter-@aniketkumar-blue?style=flat&logo=twitter)](https://x.com/ANIKETKUMA96919)
-[![GitHub](https://img.shields.io/badge/GitHub-Aniket4548-blue?style=flat&logo=github)](https://github.com/Aniket4548)
+---
 
+## 🎯 Focus Areas
 
-<h2 style="text-align: center;">📊 Github Stats</h2>
+- Data pipelines and orchestration
+- Business intelligence and dashboarding
+- Applied machine learning and GenAI for analytics
 
+---
 
+## 🌐 Connect with Me
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Aniket4548&show_icons=true&rank_icon=github&theme=dark&hide_border=true&custom_title=GitHub%20Stats" alt="GitHub Stats" />
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aniket4548&layout=donut-vertical&hide=Jupyter%20Notebook&theme=dark&hide_border=true&custom_title=Top%20Languages" alt="Top Languages" />
-</p>
+[![Email](https://img.shields.io/badge/Email-kumaraniket8802%40gmail.com-1F6FEB?style=flat-square&logo=gmail&logoColor=white)](mailto:kumaraniket8802@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Aniket%20Kumar-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aniket-kumar-4b1b68141/)
+[![Twitter](https://img.shields.io/badge/Twitter-@aniketkumar-111111?style=flat-square&logo=x&logoColor=white)](https://x.com/ANIKETKUMA96919)
+[![GitHub](https://img.shields.io/badge/GitHub-Aniket4548-24292F?style=flat-square&logo=github&logoColor=white)](https://github.com/Aniket4548)
 
-<br>
-Thank you for visiting my profile! Let's create something amazing together.
+---
+
+<p align="center">Thanks for visiting — let’s build something meaningful.</p>
